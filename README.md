@@ -1,7 +1,7 @@
 # Antenna design for Interweave cognitive radio systems
 
 This repository details the design and simulation of the proposed antenna system using HFSS.
-It includes one broadband bowtie slot antenna (Antenna 1) for spectrum sensing and two narrowband frequency-reconfigurable antennas (Antennas 2 and 3) using PIN diode switching.
+It includes one broadband bowtie slot antenna (Antenna 1) for spectrum sensing and two narrowband frequency-reconfigurable antennas (Antennas 2 and 3) using PIN diode switching.
 The simulation process, design formulas, substrate selection, and configuration parameters are
 thoroughly described. The antennas are optimized for performance in the 24–40 GHz range.
 ## Antennas in the System
