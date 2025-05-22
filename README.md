@@ -7,6 +7,7 @@ This repository contains a collection of antenna and circuit designs I developed
     Antenna 2 demonstrates reconfigurability through PIN diode switching:
     - ON state: 24 GHz to 26 GHz
     - OFF state: 25 GHz to 27.7 GHz
+      
 - **Reconfigurable antenna 2**:<br>
     Antenna 3 also exhibits reconfigurable performance:
     - ON state: 29 GHz to 32 GHz
