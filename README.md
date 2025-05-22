@@ -1,7 +1,7 @@
 # Antenna & Circuit designs
 
 This repository contains a collection of antenna and circuit designs I developed using HFSS, CST and ADS. These designs are intended for various applications such as Interweave cognitive radios systems, Dual-band and wideband communications and more
-## Antenna design for Interweave cognitive radio systems
+## 1. Antenna design for Interweave cognitive radio systems
 - **Broadband antenna**: Bowtie antenna that covers 24 - 38 GHz.
 - **Reconfigurable antenna 1**:<br>
     Antenna 2 demonstrates reconfigurability through PIN diode switching:
