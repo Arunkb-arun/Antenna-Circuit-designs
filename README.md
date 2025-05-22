@@ -11,4 +11,4 @@ This repository contains a collection of antenna and circuit designs I developed
 
 
 ## 📧 Contact
-If you'd like to collaborate or ask questions, feel free to [arunkb.ece@gmail.com](mailto:arunkb.ece@gmail.com).
+If you'd like to collaborate or ask questions, feel free to mail me - [arunkb.ece@gmail.com](mailto:arunkb.ece@gmail.com).
