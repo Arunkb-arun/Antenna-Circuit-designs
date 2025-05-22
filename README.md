@@ -4,8 +4,8 @@ This repository contains a collection of antenna and circuit designs I developed
 ## Antenna design for Interweave cognitive radio systems
 - **Broadband antenna**: Bowtie antenna that covers 24 - 38 GHz.
 - **Reconfigurable antenna 1**: Antenna 2 demonstrates reconfigurability through PIN diode switching:
-                                                          - ON state: 24 GHz to 26 GHz
-                                                          - OFF state: 25 GHz to 27.7 GHz
+  - ON state: 24 GHz to 26 GHz
+  - OFF state: 25 GHz to 27.7 GHz
 - **Reconfigurable antenna 2**: 
 ## 🛠 Tools Used
 - Ansys HFSS
