@@ -2,8 +2,9 @@
 
 This repository contains a collection of antenna and circuit designs I developed using HFSS, CST and ADS. These designs are intended for various applications such as Interweave cognitive radios systems, Dual-band and wideband communications and more
 ## Antenna design for Interweave cognitive radio systems
-- **Patch_Antenna/**: 2.4 GHz patch antenna optimized for Wi-Fi
-
+- **Broadband antenna**: Bowtie antenna that covers 24 - 38 GHz.
+- **Reconfigurable antenna 1/**: 
+- **Reconfigurable antenna 2**: 
 ## 🛠 Tools Used
 - Ansys HFSS
 
